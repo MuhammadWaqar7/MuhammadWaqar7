@@ -1,7 +1,5 @@
 ## Hi there is my badge 👋
-# Hi there is my badge
-
-![Credential Badge](https://api.credential.net/v1/public/ec2a6711-9334-4d46-8a11-da593ca70666/badge "My Credential Badge")
+<img src="https://www.credential.net/ec2a6711-9334-4d46-8a11-da593ca70666#acc.KGikEXlg" alt="Credential Badge" width="150">
 
 📌 Credential Badge
 
