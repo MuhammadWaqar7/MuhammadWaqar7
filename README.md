@@ -1,6 +1,5 @@
 ## Hi there is my badge 👋
-https://www.credential.net/ec2a6711-9334-4d46-8a11-da593ca70666#acc.KGikEXlg
-<!--
+![Credential Badge](https://www.credential.net/ec2a6711-9334-4d46-8a11-da593ca70666#acc.KGikEXlg)<!--
 **MuhammadWaqar7/MuhammadWaqar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
