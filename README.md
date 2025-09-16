@@ -31,9 +31,13 @@ Participating in tech communities and open-source projects to learn and grow alo
 **𝑨𝑾𝑺:** S3
 
 ## Certifications and Badges📜
+### Snowflake Credential Badge
 ## Snowflake Credential Badge
-![Snowflake Badge](https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=157658884)
 
+<img src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=157658884" 
+     alt="Snowflake Badge" 
+     width="200"
+     title="Snowflake Data Engineering Certification">
 
 
 
