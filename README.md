@@ -33,7 +33,7 @@ Participating in tech communities and open-source projects to learn and grow alo
 ## Certifications and Badges📜
 #### Snowflake Credential Badge
 
-<img src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=157658884" 
+<img src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=157658884"                              
      alt="Snowflake Badge" 
      width="200"
      title="Snowflake Data Engineering Certification">
@@ -43,6 +43,10 @@ Participating in tech communities and open-source projects to learn and grow alo
      width="180"
      style="border-radius: 8px; border: 2px solid #f0f0f0;">
 
+<img src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=158507395" 
+     alt="Snowflake Badge" 
+     width="180"
+     style="border-radius: 8px; border: 2px solid #f0f0f0;">
 
 
 ## Let's Connect 🌐
