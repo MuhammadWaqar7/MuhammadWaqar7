@@ -48,6 +48,12 @@ Participating in tech communities and open-source projects to learn and grow alo
      width="180"
      style="border-radius: 8px; border: 2px solid #f0f0f0;">
 
+  <img src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=157658884" 
+       alt="Snowflake Data Engineering Badge" 
+       width="180"
+       style="border-radius: 8px; border: 2px solid #f0f0f0;">
+
+
 
 ## Let's Connect 🌐
 
